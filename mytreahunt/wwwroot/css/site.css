@@ -75,4 +75,8 @@ body {
 #bodymain-rigth {
     float: right;
 }
+table {
+   border-spacing:5px 2rem;
+}
+
 
